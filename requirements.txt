@@ -1,0 +1,11 @@
+opencv-python
+numpy==1.24.3
+tensorflow
+matplotlib
+pyautogui
+python-pptx==0.6.21
+pywin32==306
+keras
+mediapip
+pillow==9.5.0
+scikit-learn
